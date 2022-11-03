@@ -1,0 +1,3 @@
+Button.c:18:5:isButton1Pressed	4	static
+Button.c:26:6:subKeyProcess	4	static
+Button.c:32:6:getKeyInput	8	static
